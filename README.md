@@ -2,6 +2,8 @@
 
 A full-stack event management system with user authentication and event creation.
 
+https://github.com/user-attachments/assets/5edf0b80-5815-4f95-b903-d2e429fa56bf
+
 # Features
 
 User registration and login
