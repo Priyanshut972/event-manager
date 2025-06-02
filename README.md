@@ -57,7 +57,9 @@ Install dependencies: npm install
 Create a .env file with:
 
 MONGODB_URI=mongodb://localhost:27017/eventmanagement
+
 JWT_SECRET=your_jwt_secret
+
 PORT=5000
 
 Start the server: node server.js
